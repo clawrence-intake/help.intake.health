@@ -59,6 +59,28 @@
     }
   });
 
+  // Handle mobile keyboard via visualViewport API
+  if (window.visualViewport) {
+    var onViewportResize = function () {
+      if (!isOpen) return;
+      var vvh = window.visualViewport.height;
+      panel.style.setProperty('--vv-height', vvh + 'px');
+      // If viewport shrunk significantly (keyboard open)
+      if (vvh < window.innerHeight * 0.85) {
+        panel.classList.add('keyboard-open');
+        panel.style.height = vvh + 'px';
+        panel.style.top = window.visualViewport.offsetTop + 'px';
+      } else {
+        panel.classList.remove('keyboard-open');
+        panel.style.height = '';
+        panel.style.top = '';
+      }
+      scrollToBottom();
+    };
+    window.visualViewport.addEventListener('resize', onViewportResize);
+    window.visualViewport.addEventListener('scroll', onViewportResize);
+  }
+
   function toggleChat(open) {
     isOpen = open;
     if (open) {
@@ -67,6 +89,9 @@
       inputEl.focus();
     } else {
       panel.classList.remove('open');
+      panel.classList.remove('keyboard-open');
+      panel.style.height = '';
+      panel.style.top = '';
       bubble.style.display = 'flex';
     }
   }
