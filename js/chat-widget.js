@@ -1,7 +1,7 @@
 (function () {
   'use strict';
 
-  var CHAT_API_URL = 'https://inflow-support-chat.clawrence-intake.workers.dev/api/chat';
+  var CHAT_API_URL = 'https://inflow-support-chat.intake-health.workers.dev/api/chat';
   var WELCOME_MESSAGE = "Hi! I'm Sam, your InFlow support assistant. How can I help you today?";
 
   var messages = [];
