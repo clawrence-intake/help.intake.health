@@ -2,7 +2,7 @@
   'use strict';
 
   var CHAT_API_URL = 'https://inflow-support-chat.intake-health.workers.dev/api/chat';
-  var WELCOME_MESSAGE = "Hi! I'm Sam, your InFlow support assistant. How can I help you today?";
+  var WELCOME_MESSAGE = "Hi! I'm Uri, your InFlow support assistant. How can I help you today?";
 
   var messages = [];
   var isOpen = false;
@@ -18,7 +18,7 @@
   panel.className = 'chat-panel';
   panel.innerHTML =
     '<div class="chat-header">' +
-      '<span class="chat-header-title"><span class="chat-header-dot"></span>Chat with Sam</span>' +
+      '<span class="chat-header-title"><span class="chat-header-dot"></span>Chat with Uri</span>' +
       '<button class="chat-close" aria-label="Close chat">&times;</button>' +
     '</div>' +
     '<div class="chat-messages"></div>' +
