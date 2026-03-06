@@ -345,12 +345,49 @@ h1, h2, h3, h4, h5, h6 {
 .led-dot.red { background: #ef4444; color: #ef4444; }
 .led-dot.blue { background: #3b82f6; color: #3b82f6; animation: pulse 2s infinite; }
 .led-dot.white { background: #f0f0f0; color: #f0f0f0; animation: pulse 2s infinite; }
-.led-dot.red-small { background: #ef4444; color: #ef4444; width: 10px; height: 10px; }
-.led-dot.green-small { background: #22c55e; color: #22c55e; width: 10px; height: 10px; }
+.led-dot.red-green {
+  background: #ef4444;
+  color: #ef4444;
+  animation: red-green-flash 1.5s infinite;
+}
+
+@keyframes red-green-flash {
+  0%, 100% { background: #ef4444; color: #ef4444; }
+  50% { background: #22c55e; color: #22c55e; }
+}
 
 @keyframes pulse {
   0%, 100% { opacity: 1; }
   50% { opacity: 0.3; }
+}
+
+.led-group-heading {
+  font-size: 1rem;
+  font-weight: 700;
+  color: rgba(255,255,255,0.85);
+  margin-bottom: 12px;
+  margin-top: 32px;
+}
+
+.led-group-heading:first-of-type {
+  margin-top: 0;
+}
+
+.led-grid + .led-group-heading {
+  margin-top: 32px;
+}
+
+a.led-item-link {
+  text-decoration: none;
+  transition: border-color var(--transition);
+}
+
+a.led-item-link:hover {
+  border-color: var(--accent);
+}
+
+a.led-item-link:hover .led-info span {
+  color: var(--accent);
 }
 
 .led-info strong {

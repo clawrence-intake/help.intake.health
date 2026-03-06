@@ -104,6 +104,8 @@
   <section class="led-section">
     <div class="led-section-inner">
       <h2>LED Status Quick Reference</h2>
+
+      <h3 class="led-group-heading">In Use</h3>
       <div class="led-grid">
         <div class="led-item">
           <div class="led-dot green"></div>
@@ -140,20 +142,31 @@
             <span>Contact support@intake.health</span>
           </div>
         </div>
+      </div>
+
+      <h3 class="led-group-heading">Charging</h3>
+      <div class="led-grid">
         <div class="led-item">
-          <div class="led-dot red-small"></div>
+          <div class="led-dot red"></div>
           <div class="led-info">
-            <strong>Red Dot &mdash; Battery Warning</strong>
-            <span>Plan to charge soon.</span>
+            <strong>Solid Red &mdash; Low Battery</strong>
+            <span>Device needs charging.</span>
           </div>
         </div>
         <div class="led-item">
-          <div class="led-dot green-small"></div>
+          <div class="led-dot green"></div>
           <div class="led-info">
-            <strong>Green Dot &mdash; Fully Charged</strong>
+            <strong>Solid Green &mdash; Fully Charged</strong>
             <span>Ready to reinstall.</span>
           </div>
         </div>
+        <a class="led-item led-item-link" href="articles/troubleshooting-and-faq.html">
+          <div class="led-dot red-green"></div>
+          <div class="led-info">
+            <strong>Flashing Red/Green &mdash; Bad Charging Connection</strong>
+            <span>Reposition and try again. See troubleshooting &rarr;</span>
+          </div>
+        </a>
       </div>
     </div>
   </section>
