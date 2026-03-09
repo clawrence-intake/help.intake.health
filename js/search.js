@@ -28,7 +28,7 @@
         'Step 3 Just Go — direct urine into cup, keep full until result appears, green yellow red',
         'How Many Units Do I Need — one per urinal, small facility 4 units, standard locker room 8-16, large facility 16+',
         'Setting Up Custodial Staff — do not use HCL based cleaners, rinse weekly with water, no stiff bristle brushes',
-        'Using InFlow with Female Athletes — place in sink or bathtub with cup, InLoo in development',
+        'Using InFlow with Female Athletes — place in sink with cup, InLoo in development',
         'Installing in Industrial Workplace — 24 hour shift environments need more charging, not waterproof, humidity maintenance every 3 months'
       ]
     },

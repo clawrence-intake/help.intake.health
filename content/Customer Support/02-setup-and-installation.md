@@ -72,7 +72,7 @@ Provide the included **custodial care card** to the staff member responsible for
 
 ## Using InFlow with Female Athletes
 
-InFlow is designed for urinals, but several athletic trainers have successfully used it with female teams by placing it in a sink or bathtub and having athletes provide a urine sample in a cup. The device works the same way — fill the cup until the result appears.
+InFlow is designed for urinals, but several athletic trainers have successfully used it with female teams by placing it in a sink and having athletes provide a urine sample in a cup. The device works the same way — fill the cup until the result appears.
 
 This requires the InFlow to be moved to and from the testing location and cleaned between uses, but it provides the same accurate hydration results.
 

@@ -127,7 +127,7 @@ A: No. InFlow is a wellness and performance monitoring tool. It is not intended 
 A: The current InFlow device provides instant visual feedback via LED light only — there is no companion app required for basic use. Contact Intake Health for information on data integration and reporting options for your organization.
 
 **Q: Does InFlow work for female athletes?**
-A: The current InFlow is designed for urinals, but many athletic trainers use it successfully with female athletes by placing it in a sink or bathtub with a cup. A dedicated toilet-mounted version (InLoo) is in development. Contact support@intake.health for updates.
+A: The current InFlow is designed for urinals, but many athletic trainers use it successfully with female athletes by placing it in a sink with a cup. A dedicated toilet-mounted version (InLoo) is in development. Contact support@intake.health for updates.
 
 ---
 

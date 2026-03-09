@@ -77,7 +77,7 @@ InFlow uses optical sensor technology to analyze urine color and concentration i
 - Do not use stiff bristle brushes
 
 ### Female Athletes
-Can use InFlow in a sink/bathtub with a cup. InLoo (toilet-mounted version) is in development.
+Can use InFlow in a sink with a cup. InLoo (toilet-mounted version) is in development.
 
 ### Industrial Settings
 - 24-hour environments need more frequent charging — consider spare units
