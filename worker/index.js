@@ -65,10 +65,10 @@ InFlow uses optical sensor technology to analyze urine color and concentration i
 
 ### How Many Units
 - One per urinal for best results
-- Small facility: 4 units (one 4-pack)
+- Small facility: 4 units
 - Standard locker room: 8-16 units
 - Large facility: 16+ units
-- Consider extra 4-pack for high-use/24-hour environments
+- Consider extra units for high-use/24-hour environments
 
 ### Custodial Care
 - Do NOT use HCL-based cleaners on InFlow
@@ -80,7 +80,7 @@ InFlow uses optical sensor technology to analyze urine color and concentration i
 Can use InFlow in a sink/bathtub with a cup. InLoo (toilet-mounted version) is in development.
 
 ### Industrial Settings
-- 24-hour environments need more frequent charging — consider spare 4-pack
+- 24-hour environments need more frequent charging — consider spare units
 - Not waterproof — avoid submersion
 - High humidity accelerates internal moisture buildup — do humidity maintenance every 3 months
 
@@ -210,8 +210,7 @@ Lithium battery — NEVER put in trash. Contact support@intake.health for dispos
 
 ### Purchase Pricing
 - Single unit: $800/unit (1-3 units)
-- 4-pack: $2,599
-- Master carton (16 x 4-packs = 64 units): 15% discount off 4-pack pricing
+- Master carton (64 units): 15% discount off per-unit pricing
 
 Includes: cartridge(s), cup(s), charger + adapter, Actiongraphic, mounts, custodial card.
 
@@ -233,9 +232,9 @@ Distributor/reseller: Intake Health provides formal quotes for procurement depar
 International: contact support@intake.health.
 
 ### Common Scenarios
-- Pro team (16 units): Lease at $5,220/yr for 8 active + 8 spares, or purchase 4x 4-packs with volume pricing
-- Oil rig (8 urinals): 2x 4-packs ($5,198) or lease at $5,220/yr, consider extra backup 4-pack
-- University: Start with 1-2 4-packs, lease available, contact for multi-team pricing`;
+- Pro team (16 units): Lease at $5,220/yr for 8 active + 8 spares, or purchase 16 units with volume pricing
+- Oil rig (8 urinals): 8 units or lease at $5,220/yr, consider extra backup units
+- University: Start with 4-8 units, lease available, contact for multi-team pricing`;
 
 const INJECTION_PATTERNS = [
   /<[^>]*>/g,

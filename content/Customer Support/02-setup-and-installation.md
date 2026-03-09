@@ -51,11 +51,11 @@ InFlow is ready for another test as soon as the cup drains.
 Install one InFlow per urinal for best results and team-wide accountability. This ensures every bathroom visit is a hydration check, not just one unit shared across a locker room.
 
 **Common configurations:**
-- Small facility / team: 4 units (one 4-pack)
-- Standard locker room: 8–16 units (two to four 4-packs)
+- Small facility / team: 4 units
+- Standard locker room: 8–16 units
 - Large facility / industrial: 16+ units (master carton pricing available)
 
-If you need coverage during charging cycles (especially in high-use, 24-hour environments), consider keeping one extra 4-pack in reserve so you can swap fresh units in while others charge.
+If you need coverage during charging cycles (especially in high-use, 24-hour environments), consider keeping extra units in reserve so you can swap fresh units in while others charge.
 
 ---
 
@@ -84,7 +84,7 @@ A dedicated toilet-mounted version (InLoo) is in development for a more permanen
 
 InFlow works the same way in industrial environments. A few additional considerations:
 
-- In 24-hour shift environments, units will need charging more frequently. Consider buying a spare 4-pack so units can rotate between active use and charging.
+- In 24-hour shift environments, units will need charging more frequently. Consider buying spare units so units can rotate between active use and charging.
 - InFlow is not waterproof — avoid submerging it or exposing it to direct water spray.
 - High-humidity environments (steam rooms, wet locker rooms, outdoor platforms) will accelerate internal humidity buildup. Perform humidity maintenance every 3 months rather than 6. See the maintenance guide for details.
 

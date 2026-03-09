@@ -92,19 +92,19 @@
     {
       title: 'Pricing & Purchasing',
       url: 'articles/pricing-and-purchasing.html',
-      keywords: 'price cost buy purchase lease order quote single unit 4-pack master carton volume discount distributor reseller international shipping procurement',
+      keywords: 'price cost buy purchase lease order quote single unit master carton volume discount distributor reseller international shipping procurement',
       sections: [
-        'Purchase Pricing — single unit $800, 4-pack $2599, master carton 64 units 15% discount',
+        'Purchase Pricing — single unit $800, master carton 64 units 15% discount',
         'Purchase includes — cartridge cup wireless charger Actiongraphic wall mounts custodial card',
         'Lease Pricing — 4 units $3300 per year, 8 units $5220 per year, includes maintenance rotation',
         'Purchase vs Lease — purchase if staff capacity one-time cost small setup own equipment, lease if zero maintenance fresh units 4+ units predictable cost',
-        'Volume Discounts — master carton 16 four-packs 64 units 15% off',
+        'Volume Discounts — master carton 64 units 15% off',
         'How to Order — direct from Intake Health, ships same next business day',
         'Distributor Reseller — available through select distributors, formal quote for procurement',
         'International Orders — contact support for shipping options',
-        'Pro sports team scenario — 16 units lease $5220 per year or purchase 4 four-packs',
-        'Oil rig scenario — 2 four-packs $5198 or lease, extra backup for 24-hour operations',
-        'University scenario — start with 1-2 four-packs, lease available'
+        'Pro sports team scenario — 16 units lease $5220 per year or purchase with volume pricing',
+        'Oil rig scenario — 8 units or lease, extra backup for 24-hour operations',
+        'University scenario — start with 4-8 units, lease available'
       ]
     }
   ];

@@ -14,8 +14,7 @@ InFlow is available as a direct purchase or through the lease program. Most cust
 | Option | Price | Notes |
 |---|---|---|
 | Single unit | $800/unit | For 1–3 units |
-| 4-pack | $2,599 | Standard configuration |
-| Master carton (16 × 4-packs = 64 units) | 15% discount off 4-pack pricing | For large deployments |
+| Master carton (64 units) | 15% discount off per-unit pricing | For large deployments |
 
 **What's included in a purchase:**
 - InFlow Cartridge(s) and Cup(s)
@@ -62,7 +61,7 @@ For larger configurations or custom swap schedules, contact support@intake.healt
 
 ## Volume Discounts
 
-For orders at the **master carton level** (16 four-packs = 64 units), a **15% discount** is available off standard 4-pack pricing. This is most relevant for large facility rollouts, industrial deployments, or multi-team setups.
+For orders at the **master carton level** (64 units), a **15% discount** is available off standard per-unit pricing. This is most relevant for large facility rollouts, industrial deployments, or multi-team setups.
 
 Contact support@intake.health to discuss master carton pricing and availability.
 
@@ -93,16 +92,16 @@ Contact support@intake.health to discuss international shipping options and pric
 ## Common Purchasing Scenarios
 
 **A pro sports team wants 16 units for their locker room:**
-- Recommended: Lease at $5,220/year for 8 active units + 8 spares on rotation, or purchase 4 four-packs with master carton pricing.
+- Recommended: Lease at $5,220/year for 8 active units + 8 spares on rotation, or purchase 16 units with master carton pricing.
 - Best fit: Lease, since athletic training staff rarely has time to manage maintenance.
 
 **An oil rig wants to cover 8 urinals across two floors:**
-- Recommended: 2 × 4-packs ($5,198) or lease at $5,220/year.
-- Consider purchasing an extra 4-pack as backup if running 24-hour operations.
+- Recommended: 8 units or lease at $5,220/year.
+- Consider purchasing extra units as backup if running 24-hour operations.
 - For 10+ assets (multi-site rollout), volume pricing applies.
 
 **A university athletic department wants to outfit multiple sports:**
-- Start with 1–2 4-packs for the primary sports, then expand.
+- Start with 4–8 units for the primary sports, then expand.
 - Lease program available. Contact for multi-team pricing.
 
 **A reseller wants to stock InFlow for athletics customers:**

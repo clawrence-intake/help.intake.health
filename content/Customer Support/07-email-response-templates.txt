@@ -160,7 +160,7 @@ I've attached some info about InFlow for you to share around if needed.
 Here's a quick pricing summary to support [X] urinals:
 
 **Purchase Option**
-- [X] InFlows: $[X] ($800/unit or $2,599/4-pack)
+- [X] InFlows: $[X] ($800/unit)
 - 1-year warranty included
 
 **Lease Option**
@@ -188,8 +188,7 @@ Great to connect. Here's how InFlow works and what it costs:
 **The device:** Small, battery-powered unit that attaches to urinals with suction cups. No wiring, no plumbing. Every time someone uses the urinal, they get an instant green/yellow/red hydration result. Green = hydrated, yellow = needs to drink, red = significantly dehydrated. Lasts ~4,000 tests per charge.
 
 **Pricing:**
-- 4-pack: $2,599 (covers 4 urinals)
-- 8 units (2 × 4-packs): $5,198
+- 8 units: $6,400
 - Volume pricing available for larger orders (15% off at master carton level — 64 units)
 
 **What's included:** Wireless charger, over-urinal signage with space to write your own protocols (e.g., "Red = come see the safety officer"), wall mounts.

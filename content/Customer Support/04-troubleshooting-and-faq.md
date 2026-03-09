@@ -143,7 +143,7 @@ A: No. InFlow is completely wireless and battery-powered. No wiring, no Wi-Fi co
 A: No. InFlow attaches to the inside of any standard urinal using suction cups. It requires no plumbing, drilling, or permanent modifications.
 
 **Q: How many InFlows do I need?**
-A: One per urinal for full coverage. Most facilities start with enough units to cover all urinals in the primary locker room or restroom and expand from there. Common starter configurations are 4 units (one 4-pack) or 8 units (two 4-packs).
+A: One per urinal for full coverage. Most facilities start with enough units to cover all urinals in the primary locker room or restroom and expand from there. Common starter configurations are 4 units or 8 units.
 
 ---
 
